@@ -1,0 +1,21 @@
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+	background: #ffffff;
+	width: 100%;
+}
+
+header {
+width: 300px
+  padding: 20px;
+  margin-bottom: 20px;
+  color: ##4aaaa5;
+  background: #4aaaa5;
+
+}
+
+
