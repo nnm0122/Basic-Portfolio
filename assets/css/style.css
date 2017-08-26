@@ -1,21 +1,26 @@
 
-div.container {
-	width: 100%;
+
+header {
+width: 100%
+   color: ##4aaaa5;
+  background: #4aaaa5;
+  font-family: 'Georgia, Times, Times New Roman,serif;'
+}
+div {
+	border: 1px white;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-right: 150px
+	margin-left: 80px;
+	background-color: white;
 }
 
 body {
 	background: #ffffff;
-	width: 960px;
+	width: 100%;
 }
 
-header {
-width: 300px
-  padding: 20px;
-  margin-bottom: 40px;
-  color: ##4aaaa5;
-  background: #4aaaa5;
-  font-family: 'Georgia, Times, Times New Roman,serif;'
-}
+
 h1 {
 	border: 2px solid #cccccc;
 	padding: 25px;
@@ -32,11 +37,14 @@ image {
 	overflow: hidden;
 }
 
-article {
-	margin-left: 170px;
-	padding: 1em;
-	overflow: hidden;
+
 }
 footer{
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+#img {
+
+}
+#active {
+	width: 80%;
 }
